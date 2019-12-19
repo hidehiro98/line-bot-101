@@ -733,7 +733,7 @@ GEM
     mustermann (1.0.3)
     os (1.0.0)
     public_suffix (3.0.3)
-    rack (2.0.5)
+    rack (2.0.8)
     rack-protection (2.0.4)
       rack
     representable (3.0.4)
